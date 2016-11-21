@@ -24,7 +24,7 @@ public class AES {
 	public static void main(String[] args) throws Exception{
 		// AES-128-CBC need 16bits key
 
-//		String inputfile = "D:/Document/GSS/test.ftm";
+//		String inputfile = "D:/Document/test.ftm";
 		String inputfile = "D:/Document/plaintext.ftm";
 		String outputfile = "D:/Document/EncryptData.ftm";
 		String line = null;
